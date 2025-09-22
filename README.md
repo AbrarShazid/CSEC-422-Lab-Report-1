@@ -7,16 +7,16 @@
 ## 📸 Screenshots
 
 ### 🖼️ 1
-![Homepage](./screenshot/1.png)
+![1](./Screenshot/1.png)
 
 ### 🖼️ 2
-![About Section](./screenshot/2.png)
+![2](./Screenshot/2.png)
 
 ### 🖼️ 3
-![Features](./screenshot/3.png)
+![3](./Screenshot/3.png)
 
 ### 🖼️ 4
-![Contact](./screenshot/4.png)
+![4](./Screenshot/4.png)
 
 ---
 
